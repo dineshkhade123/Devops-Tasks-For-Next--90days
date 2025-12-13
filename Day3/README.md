@@ -1,4 +1,4 @@
-# y 3 Task: Basic Linux Commands with a Twist
+# Day 3 Task: Basic Linux Commands with a Twist
 
 Task: What are the Linux commands to
 
