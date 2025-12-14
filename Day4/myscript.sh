@@ -1,2 +1,2 @@
 
-echo " i will complete 90DayOfDevops callenge."
+echo " i will complete 90DayOfDevops challenge."
