@@ -11,7 +11,7 @@ about
 
 name=$1
 
-read -p "enter your fav game :" game 
+read -p "Enter your fav game :" game 
 
 # Printing variables 
 
