@@ -24,3 +24,5 @@ do
     echo "Created directory: ${dir_name}${i}"
 done
 
+
+
