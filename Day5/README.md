@@ -7,11 +7,9 @@ Create Directories Using Shell Script:
 
 Example 1: When executed as ./createDirectories.sh day 1 90, it creates 90 directories as day1 day2 day3 ... day90.
 Example 2: When executed as ./createDirectories.sh Movie 20 50, it creates 31 directories as Movie20 Movie21 Movie22 ... Movie50.
-Notes: You may need to use loops or commands (or both), based on your preference. Check out this reference: Bash Scripting For Loop
+Notes: You may need to use loops or commands (or both), based on your preference. 
 
  ## 2: Create a Script to Backup All Your Work:
-
-Backups are an important part of a DevOps Engineer's day-to-day activities. The video in the references will help you understand how a DevOps Engineer takes backups (it can feel a bit difficult but keep trying, nothing is impossible).
 
 ## 3: Read About Cron and Crontab to Automate the Backup Script:
 
@@ -23,4 +21,3 @@ A user is an entity in a Linux operating system that can manipulate files and pe
 Create 2 users and display their usernames.
 Check out this reference: User Management in Linux.
 
-Post your daily work on LinkedIn and let me know how it went! Writing an article about your experience is highly encouraged.
